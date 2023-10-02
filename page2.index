@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+  <title>cicc</title>
+  <style>
+    .centerimage{
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    .centervideo{
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+  </style>
+</head>
